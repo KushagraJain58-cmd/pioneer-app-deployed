@@ -1,0 +1,722 @@
+{
+  "RIA": {
+    "title": "Realistic \u2013 Investigative \u2013 Artistic Profile",
+    "summary": "This interest profile combines Realistic, Investigative, and Artistic tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying analytical thinking, research, and solving complex intellectual problems and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by investigative thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating investigative and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RIS": {
+    "title": "Realistic \u2013 Investigative \u2013 Social Profile",
+    "summary": "This interest profile combines Realistic, Investigative, and Social tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying analytical thinking, research, and solving complex intellectual problems and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by investigative thinking and social approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating investigative and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RIE": {
+    "title": "Realistic \u2013 Investigative \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Realistic, Investigative, and Enterprising tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying analytical thinking, research, and solving complex intellectual problems and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by investigative thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating investigative and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RIC": {
+    "title": "Realistic \u2013 Investigative \u2013 Conventional Profile",
+    "summary": "This interest profile combines Realistic, Investigative, and Conventional tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying analytical thinking, research, and solving complex intellectual problems and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by investigative thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating investigative and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RAI": {
+    "title": "Realistic \u2013 Artistic \u2013 Investigative Profile",
+    "summary": "This interest profile combines Realistic, Artistic, and Investigative tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying creative expression, imagination, and innovative design and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by artistic thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating artistic and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RAS": {
+    "title": "Realistic \u2013 Artistic \u2013 Social Profile",
+    "summary": "This interest profile combines Realistic, Artistic, and Social tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying creative expression, imagination, and innovative design and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by artistic thinking and social approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating artistic and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RAE": {
+    "title": "Realistic \u2013 Artistic \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Realistic, Artistic, and Enterprising tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying creative expression, imagination, and innovative design and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by artistic thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating artistic and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RAC": {
+    "title": "Realistic \u2013 Artistic \u2013 Conventional Profile",
+    "summary": "This interest profile combines Realistic, Artistic, and Conventional tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying creative expression, imagination, and innovative design and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by artistic thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating artistic and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RSI": {
+    "title": "Realistic \u2013 Social \u2013 Investigative Profile",
+    "summary": "This interest profile combines Realistic, Social, and Investigative tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying helping, teaching, supporting, or guiding other people and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by social thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating social and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RSA": {
+    "title": "Realistic \u2013 Social \u2013 Artistic Profile",
+    "summary": "This interest profile combines Realistic, Social, and Artistic tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying helping, teaching, supporting, or guiding other people and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by social thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating social and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RSE": {
+    "title": "Realistic \u2013 Social \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Realistic, Social, and Enterprising tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying helping, teaching, supporting, or guiding other people and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by social thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating social and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RSC": {
+    "title": "Realistic \u2013 Social \u2013 Conventional Profile",
+    "summary": "This interest profile combines Realistic, Social, and Conventional tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying helping, teaching, supporting, or guiding other people and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by social thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating social and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "REI": {
+    "title": "Realistic \u2013 Enterprising \u2013 Investigative Profile",
+    "summary": "This interest profile combines Realistic, Enterprising, and Investigative tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by enterprising thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating enterprising and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "REA": {
+    "title": "Realistic \u2013 Enterprising \u2013 Artistic Profile",
+    "summary": "This interest profile combines Realistic, Enterprising, and Artistic tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by enterprising thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating enterprising and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RES": {
+    "title": "Realistic \u2013 Enterprising \u2013 Social Profile",
+    "summary": "This interest profile combines Realistic, Enterprising, and Social tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by enterprising thinking and social approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating enterprising and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "REC": {
+    "title": "Realistic \u2013 Enterprising \u2013 Conventional Profile",
+    "summary": "This interest profile combines Realistic, Enterprising, and Conventional tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by enterprising thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating enterprising and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RCI": {
+    "title": "Realistic \u2013 Conventional \u2013 Investigative Profile",
+    "summary": "This interest profile combines Realistic, Conventional, and Investigative tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying organization, structured systems, administration, and accuracy and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by conventional thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating conventional and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RCA": {
+    "title": "Realistic \u2013 Conventional \u2013 Artistic Profile",
+    "summary": "This interest profile combines Realistic, Conventional, and Artistic tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying organization, structured systems, administration, and accuracy and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by conventional thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating conventional and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RCS": {
+    "title": "Realistic \u2013 Conventional \u2013 Social Profile",
+    "summary": "This interest profile combines Realistic, Conventional, and Social tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying organization, structured systems, administration, and accuracy and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by conventional thinking and social approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating conventional and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "RCE": {
+    "title": "Realistic \u2013 Conventional \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Realistic, Conventional, and Enterprising tendencies. You are primarily drawn to practical, hands\u2011on activities involving tools, machines, or physical work, while also enjoying organization, structured systems, administration, and accuracy and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use realistic strengths first, supported by conventional thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your realistic strengths can lead, while integrating conventional and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IRA": {
+    "title": "Investigative \u2013 Realistic \u2013 Artistic Profile",
+    "summary": "This interest profile combines Investigative, Realistic, and Artistic tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by realistic thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating realistic and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IRS": {
+    "title": "Investigative \u2013 Realistic \u2013 Social Profile",
+    "summary": "This interest profile combines Investigative, Realistic, and Social tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by realistic thinking and social approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating realistic and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IRE": {
+    "title": "Investigative \u2013 Realistic \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Investigative, Realistic, and Enterprising tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by realistic thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating realistic and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IRC": {
+    "title": "Investigative \u2013 Realistic \u2013 Conventional Profile",
+    "summary": "This interest profile combines Investigative, Realistic, and Conventional tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by realistic thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating realistic and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IAR": {
+    "title": "Investigative \u2013 Artistic \u2013 Realistic Profile",
+    "summary": "This interest profile combines Investigative, Artistic, and Realistic tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying creative expression, imagination, and innovative design and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by artistic thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating artistic and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IAS": {
+    "title": "Investigative \u2013 Artistic \u2013 Social Profile",
+    "summary": "This interest profile combines Investigative, Artistic, and Social tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying creative expression, imagination, and innovative design and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by artistic thinking and social approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating artistic and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IAE": {
+    "title": "Investigative \u2013 Artistic \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Investigative, Artistic, and Enterprising tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying creative expression, imagination, and innovative design and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by artistic thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating artistic and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IAC": {
+    "title": "Investigative \u2013 Artistic \u2013 Conventional Profile",
+    "summary": "This interest profile combines Investigative, Artistic, and Conventional tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying creative expression, imagination, and innovative design and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by artistic thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating artistic and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ISR": {
+    "title": "Investigative \u2013 Social \u2013 Realistic Profile",
+    "summary": "This interest profile combines Investigative, Social, and Realistic tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying helping, teaching, supporting, or guiding other people and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by social thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating social and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ISA": {
+    "title": "Investigative \u2013 Social \u2013 Artistic Profile",
+    "summary": "This interest profile combines Investigative, Social, and Artistic tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying helping, teaching, supporting, or guiding other people and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by social thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating social and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ISE": {
+    "title": "Investigative \u2013 Social \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Investigative, Social, and Enterprising tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying helping, teaching, supporting, or guiding other people and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by social thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating social and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ISC": {
+    "title": "Investigative \u2013 Social \u2013 Conventional Profile",
+    "summary": "This interest profile combines Investigative, Social, and Conventional tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying helping, teaching, supporting, or guiding other people and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by social thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating social and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IER": {
+    "title": "Investigative \u2013 Enterprising \u2013 Realistic Profile",
+    "summary": "This interest profile combines Investigative, Enterprising, and Realistic tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by enterprising thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating enterprising and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IEA": {
+    "title": "Investigative \u2013 Enterprising \u2013 Artistic Profile",
+    "summary": "This interest profile combines Investigative, Enterprising, and Artistic tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by enterprising thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating enterprising and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IES": {
+    "title": "Investigative \u2013 Enterprising \u2013 Social Profile",
+    "summary": "This interest profile combines Investigative, Enterprising, and Social tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by enterprising thinking and social approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating enterprising and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "IEC": {
+    "title": "Investigative \u2013 Enterprising \u2013 Conventional Profile",
+    "summary": "This interest profile combines Investigative, Enterprising, and Conventional tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by enterprising thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating enterprising and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ICR": {
+    "title": "Investigative \u2013 Conventional \u2013 Realistic Profile",
+    "summary": "This interest profile combines Investigative, Conventional, and Realistic tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying organization, structured systems, administration, and accuracy and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by conventional thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating conventional and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ICA": {
+    "title": "Investigative \u2013 Conventional \u2013 Artistic Profile",
+    "summary": "This interest profile combines Investigative, Conventional, and Artistic tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying organization, structured systems, administration, and accuracy and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by conventional thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating conventional and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ICS": {
+    "title": "Investigative \u2013 Conventional \u2013 Social Profile",
+    "summary": "This interest profile combines Investigative, Conventional, and Social tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying organization, structured systems, administration, and accuracy and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by conventional thinking and social approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating conventional and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ICE": {
+    "title": "Investigative \u2013 Conventional \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Investigative, Conventional, and Enterprising tendencies. You are primarily drawn to analytical thinking, research, and solving complex intellectual problems, while also enjoying organization, structured systems, administration, and accuracy and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use investigative strengths first, supported by conventional thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your investigative strengths can lead, while integrating conventional and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ARI": {
+    "title": "Artistic \u2013 Realistic \u2013 Investigative Profile",
+    "summary": "This interest profile combines Artistic, Realistic, and Investigative tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by realistic thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating realistic and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ARS": {
+    "title": "Artistic \u2013 Realistic \u2013 Social Profile",
+    "summary": "This interest profile combines Artistic, Realistic, and Social tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by realistic thinking and social approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating realistic and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ARE": {
+    "title": "Artistic \u2013 Realistic \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Artistic, Realistic, and Enterprising tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by realistic thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating realistic and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ARC": {
+    "title": "Artistic \u2013 Realistic \u2013 Conventional Profile",
+    "summary": "This interest profile combines Artistic, Realistic, and Conventional tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by realistic thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating realistic and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "AIR": {
+    "title": "Artistic \u2013 Investigative \u2013 Realistic Profile",
+    "summary": "This interest profile combines Artistic, Investigative, and Realistic tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying analytical thinking, research, and solving complex intellectual problems and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by investigative thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating investigative and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "AIS": {
+    "title": "Artistic \u2013 Investigative \u2013 Social Profile",
+    "summary": "This interest profile combines Artistic, Investigative, and Social tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying analytical thinking, research, and solving complex intellectual problems and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by investigative thinking and social approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating investigative and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "AIE": {
+    "title": "Artistic \u2013 Investigative \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Artistic, Investigative, and Enterprising tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying analytical thinking, research, and solving complex intellectual problems and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by investigative thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating investigative and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "AIC": {
+    "title": "Artistic \u2013 Investigative \u2013 Conventional Profile",
+    "summary": "This interest profile combines Artistic, Investigative, and Conventional tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying analytical thinking, research, and solving complex intellectual problems and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by investigative thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating investigative and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ASR": {
+    "title": "Artistic \u2013 Social \u2013 Realistic Profile",
+    "summary": "This interest profile combines Artistic, Social, and Realistic tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying helping, teaching, supporting, or guiding other people and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by social thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating social and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ASI": {
+    "title": "Artistic \u2013 Social \u2013 Investigative Profile",
+    "summary": "This interest profile combines Artistic, Social, and Investigative tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying helping, teaching, supporting, or guiding other people and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by social thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating social and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ASE": {
+    "title": "Artistic \u2013 Social \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Artistic, Social, and Enterprising tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying helping, teaching, supporting, or guiding other people and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by social thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating social and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ASC": {
+    "title": "Artistic \u2013 Social \u2013 Conventional Profile",
+    "summary": "This interest profile combines Artistic, Social, and Conventional tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying helping, teaching, supporting, or guiding other people and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by social thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating social and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "AER": {
+    "title": "Artistic \u2013 Enterprising \u2013 Realistic Profile",
+    "summary": "This interest profile combines Artistic, Enterprising, and Realistic tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by enterprising thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating enterprising and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "AEI": {
+    "title": "Artistic \u2013 Enterprising \u2013 Investigative Profile",
+    "summary": "This interest profile combines Artistic, Enterprising, and Investigative tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by enterprising thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating enterprising and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "AES": {
+    "title": "Artistic \u2013 Enterprising \u2013 Social Profile",
+    "summary": "This interest profile combines Artistic, Enterprising, and Social tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by enterprising thinking and social approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating enterprising and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "AEC": {
+    "title": "Artistic \u2013 Enterprising \u2013 Conventional Profile",
+    "summary": "This interest profile combines Artistic, Enterprising, and Conventional tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by enterprising thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating enterprising and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ACR": {
+    "title": "Artistic \u2013 Conventional \u2013 Realistic Profile",
+    "summary": "This interest profile combines Artistic, Conventional, and Realistic tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying organization, structured systems, administration, and accuracy and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by conventional thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating conventional and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ACI": {
+    "title": "Artistic \u2013 Conventional \u2013 Investigative Profile",
+    "summary": "This interest profile combines Artistic, Conventional, and Investigative tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying organization, structured systems, administration, and accuracy and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by conventional thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating conventional and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ACS": {
+    "title": "Artistic \u2013 Conventional \u2013 Social Profile",
+    "summary": "This interest profile combines Artistic, Conventional, and Social tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying organization, structured systems, administration, and accuracy and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by conventional thinking and social approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating conventional and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ACE": {
+    "title": "Artistic \u2013 Conventional \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Artistic, Conventional, and Enterprising tendencies. You are primarily drawn to creative expression, imagination, and innovative design, while also enjoying organization, structured systems, administration, and accuracy and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use artistic strengths first, supported by conventional thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your artistic strengths can lead, while integrating conventional and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SRI": {
+    "title": "Social \u2013 Realistic \u2013 Investigative Profile",
+    "summary": "This interest profile combines Social, Realistic, and Investigative tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by realistic thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating realistic and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SRA": {
+    "title": "Social \u2013 Realistic \u2013 Artistic Profile",
+    "summary": "This interest profile combines Social, Realistic, and Artistic tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by realistic thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating realistic and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SRE": {
+    "title": "Social \u2013 Realistic \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Social, Realistic, and Enterprising tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by realistic thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating realistic and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SRC": {
+    "title": "Social \u2013 Realistic \u2013 Conventional Profile",
+    "summary": "This interest profile combines Social, Realistic, and Conventional tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by realistic thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating realistic and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SIR": {
+    "title": "Social \u2013 Investigative \u2013 Realistic Profile",
+    "summary": "This interest profile combines Social, Investigative, and Realistic tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying analytical thinking, research, and solving complex intellectual problems and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by investigative thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating investigative and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SIA": {
+    "title": "Social \u2013 Investigative \u2013 Artistic Profile",
+    "summary": "This interest profile combines Social, Investigative, and Artistic tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying analytical thinking, research, and solving complex intellectual problems and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by investigative thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating investigative and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SIE": {
+    "title": "Social \u2013 Investigative \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Social, Investigative, and Enterprising tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying analytical thinking, research, and solving complex intellectual problems and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by investigative thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating investigative and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SIC": {
+    "title": "Social \u2013 Investigative \u2013 Conventional Profile",
+    "summary": "This interest profile combines Social, Investigative, and Conventional tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying analytical thinking, research, and solving complex intellectual problems and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by investigative thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating investigative and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SAR": {
+    "title": "Social \u2013 Artistic \u2013 Realistic Profile",
+    "summary": "This interest profile combines Social, Artistic, and Realistic tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying creative expression, imagination, and innovative design and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by artistic thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating artistic and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SAI": {
+    "title": "Social \u2013 Artistic \u2013 Investigative Profile",
+    "summary": "This interest profile combines Social, Artistic, and Investigative tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying creative expression, imagination, and innovative design and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by artistic thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating artistic and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SAE": {
+    "title": "Social \u2013 Artistic \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Social, Artistic, and Enterprising tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying creative expression, imagination, and innovative design and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by artistic thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating artistic and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SAC": {
+    "title": "Social \u2013 Artistic \u2013 Conventional Profile",
+    "summary": "This interest profile combines Social, Artistic, and Conventional tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying creative expression, imagination, and innovative design and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by artistic thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating artistic and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SER": {
+    "title": "Social \u2013 Enterprising \u2013 Realistic Profile",
+    "summary": "This interest profile combines Social, Enterprising, and Realistic tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by enterprising thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating enterprising and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SEI": {
+    "title": "Social \u2013 Enterprising \u2013 Investigative Profile",
+    "summary": "This interest profile combines Social, Enterprising, and Investigative tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by enterprising thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating enterprising and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SEA": {
+    "title": "Social \u2013 Enterprising \u2013 Artistic Profile",
+    "summary": "This interest profile combines Social, Enterprising, and Artistic tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by enterprising thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating enterprising and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SEC": {
+    "title": "Social \u2013 Enterprising \u2013 Conventional Profile",
+    "summary": "This interest profile combines Social, Enterprising, and Conventional tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by enterprising thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating enterprising and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SCR": {
+    "title": "Social \u2013 Conventional \u2013 Realistic Profile",
+    "summary": "This interest profile combines Social, Conventional, and Realistic tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying organization, structured systems, administration, and accuracy and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by conventional thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating conventional and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SCI": {
+    "title": "Social \u2013 Conventional \u2013 Investigative Profile",
+    "summary": "This interest profile combines Social, Conventional, and Investigative tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying organization, structured systems, administration, and accuracy and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by conventional thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating conventional and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SCA": {
+    "title": "Social \u2013 Conventional \u2013 Artistic Profile",
+    "summary": "This interest profile combines Social, Conventional, and Artistic tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying organization, structured systems, administration, and accuracy and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by conventional thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating conventional and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "SCE": {
+    "title": "Social \u2013 Conventional \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Social, Conventional, and Enterprising tendencies. You are primarily drawn to helping, teaching, supporting, or guiding other people, while also enjoying organization, structured systems, administration, and accuracy and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use social strengths first, supported by conventional thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your social strengths can lead, while integrating conventional and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ERI": {
+    "title": "Enterprising \u2013 Realistic \u2013 Investigative Profile",
+    "summary": "This interest profile combines Enterprising, Realistic, and Investigative tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by realistic thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating realistic and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ERA": {
+    "title": "Enterprising \u2013 Realistic \u2013 Artistic Profile",
+    "summary": "This interest profile combines Enterprising, Realistic, and Artistic tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by realistic thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating realistic and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ERS": {
+    "title": "Enterprising \u2013 Realistic \u2013 Social Profile",
+    "summary": "This interest profile combines Enterprising, Realistic, and Social tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by realistic thinking and social approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating realistic and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ERC": {
+    "title": "Enterprising \u2013 Realistic \u2013 Conventional Profile",
+    "summary": "This interest profile combines Enterprising, Realistic, and Conventional tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by realistic thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating realistic and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "EIR": {
+    "title": "Enterprising \u2013 Investigative \u2013 Realistic Profile",
+    "summary": "This interest profile combines Enterprising, Investigative, and Realistic tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying analytical thinking, research, and solving complex intellectual problems and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by investigative thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating investigative and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "EIA": {
+    "title": "Enterprising \u2013 Investigative \u2013 Artistic Profile",
+    "summary": "This interest profile combines Enterprising, Investigative, and Artistic tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying analytical thinking, research, and solving complex intellectual problems and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by investigative thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating investigative and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "EIS": {
+    "title": "Enterprising \u2013 Investigative \u2013 Social Profile",
+    "summary": "This interest profile combines Enterprising, Investigative, and Social tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying analytical thinking, research, and solving complex intellectual problems and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by investigative thinking and social approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating investigative and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "EIC": {
+    "title": "Enterprising \u2013 Investigative \u2013 Conventional Profile",
+    "summary": "This interest profile combines Enterprising, Investigative, and Conventional tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying analytical thinking, research, and solving complex intellectual problems and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by investigative thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating investigative and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "EAR": {
+    "title": "Enterprising \u2013 Artistic \u2013 Realistic Profile",
+    "summary": "This interest profile combines Enterprising, Artistic, and Realistic tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying creative expression, imagination, and innovative design and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by artistic thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating artistic and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "EAI": {
+    "title": "Enterprising \u2013 Artistic \u2013 Investigative Profile",
+    "summary": "This interest profile combines Enterprising, Artistic, and Investigative tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying creative expression, imagination, and innovative design and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by artistic thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating artistic and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "EAS": {
+    "title": "Enterprising \u2013 Artistic \u2013 Social Profile",
+    "summary": "This interest profile combines Enterprising, Artistic, and Social tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying creative expression, imagination, and innovative design and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by artistic thinking and social approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating artistic and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "EAC": {
+    "title": "Enterprising \u2013 Artistic \u2013 Conventional Profile",
+    "summary": "This interest profile combines Enterprising, Artistic, and Conventional tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying creative expression, imagination, and innovative design and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by artistic thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating artistic and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ESR": {
+    "title": "Enterprising \u2013 Social \u2013 Realistic Profile",
+    "summary": "This interest profile combines Enterprising, Social, and Realistic tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying helping, teaching, supporting, or guiding other people and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by social thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating social and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ESI": {
+    "title": "Enterprising \u2013 Social \u2013 Investigative Profile",
+    "summary": "This interest profile combines Enterprising, Social, and Investigative tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying helping, teaching, supporting, or guiding other people and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by social thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating social and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ESA": {
+    "title": "Enterprising \u2013 Social \u2013 Artistic Profile",
+    "summary": "This interest profile combines Enterprising, Social, and Artistic tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying helping, teaching, supporting, or guiding other people and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by social thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating social and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ESC": {
+    "title": "Enterprising \u2013 Social \u2013 Conventional Profile",
+    "summary": "This interest profile combines Enterprising, Social, and Conventional tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying helping, teaching, supporting, or guiding other people and organization, structured systems, administration, and accuracy.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by social thinking and conventional approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating social and conventional abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ECR": {
+    "title": "Enterprising \u2013 Conventional \u2013 Realistic Profile",
+    "summary": "This interest profile combines Enterprising, Conventional, and Realistic tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying organization, structured systems, administration, and accuracy and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by conventional thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating conventional and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ECI": {
+    "title": "Enterprising \u2013 Conventional \u2013 Investigative Profile",
+    "summary": "This interest profile combines Enterprising, Conventional, and Investigative tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying organization, structured systems, administration, and accuracy and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by conventional thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating conventional and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ECA": {
+    "title": "Enterprising \u2013 Conventional \u2013 Artistic Profile",
+    "summary": "This interest profile combines Enterprising, Conventional, and Artistic tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying organization, structured systems, administration, and accuracy and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by conventional thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating conventional and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "ECS": {
+    "title": "Enterprising \u2013 Conventional \u2013 Social Profile",
+    "summary": "This interest profile combines Enterprising, Conventional, and Social tendencies. You are primarily drawn to leadership, persuasion, business initiatives, and entrepreneurship, while also enjoying organization, structured systems, administration, and accuracy and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use enterprising strengths first, supported by conventional thinking and social approaches.",
+    "student_guidance": "Explore career paths where your enterprising strengths can lead, while integrating conventional and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CRI": {
+    "title": "Conventional \u2013 Realistic \u2013 Investigative Profile",
+    "summary": "This interest profile combines Conventional, Realistic, and Investigative tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by realistic thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating realistic and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CRA": {
+    "title": "Conventional \u2013 Realistic \u2013 Artistic Profile",
+    "summary": "This interest profile combines Conventional, Realistic, and Artistic tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by realistic thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating realistic and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CRS": {
+    "title": "Conventional \u2013 Realistic \u2013 Social Profile",
+    "summary": "This interest profile combines Conventional, Realistic, and Social tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by realistic thinking and social approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating realistic and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CRE": {
+    "title": "Conventional \u2013 Realistic \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Conventional, Realistic, and Enterprising tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying practical, hands\u2011on activities involving tools, machines, or physical work and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by realistic thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating realistic and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CIR": {
+    "title": "Conventional \u2013 Investigative \u2013 Realistic Profile",
+    "summary": "This interest profile combines Conventional, Investigative, and Realistic tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying analytical thinking, research, and solving complex intellectual problems and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by investigative thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating investigative and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CIA": {
+    "title": "Conventional \u2013 Investigative \u2013 Artistic Profile",
+    "summary": "This interest profile combines Conventional, Investigative, and Artistic tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying analytical thinking, research, and solving complex intellectual problems and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by investigative thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating investigative and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CIS": {
+    "title": "Conventional \u2013 Investigative \u2013 Social Profile",
+    "summary": "This interest profile combines Conventional, Investigative, and Social tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying analytical thinking, research, and solving complex intellectual problems and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by investigative thinking and social approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating investigative and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CIE": {
+    "title": "Conventional \u2013 Investigative \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Conventional, Investigative, and Enterprising tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying analytical thinking, research, and solving complex intellectual problems and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by investigative thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating investigative and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CAR": {
+    "title": "Conventional \u2013 Artistic \u2013 Realistic Profile",
+    "summary": "This interest profile combines Conventional, Artistic, and Realistic tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying creative expression, imagination, and innovative design and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by artistic thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating artistic and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CAI": {
+    "title": "Conventional \u2013 Artistic \u2013 Investigative Profile",
+    "summary": "This interest profile combines Conventional, Artistic, and Investigative tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying creative expression, imagination, and innovative design and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by artistic thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating artistic and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CAS": {
+    "title": "Conventional \u2013 Artistic \u2013 Social Profile",
+    "summary": "This interest profile combines Conventional, Artistic, and Social tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying creative expression, imagination, and innovative design and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by artistic thinking and social approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating artistic and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CAE": {
+    "title": "Conventional \u2013 Artistic \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Conventional, Artistic, and Enterprising tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying creative expression, imagination, and innovative design and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by artistic thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating artistic and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CSR": {
+    "title": "Conventional \u2013 Social \u2013 Realistic Profile",
+    "summary": "This interest profile combines Conventional, Social, and Realistic tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying helping, teaching, supporting, or guiding other people and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by social thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating social and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CSI": {
+    "title": "Conventional \u2013 Social \u2013 Investigative Profile",
+    "summary": "This interest profile combines Conventional, Social, and Investigative tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying helping, teaching, supporting, or guiding other people and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by social thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating social and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CSA": {
+    "title": "Conventional \u2013 Social \u2013 Artistic Profile",
+    "summary": "This interest profile combines Conventional, Social, and Artistic tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying helping, teaching, supporting, or guiding other people and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by social thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating social and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CSE": {
+    "title": "Conventional \u2013 Social \u2013 Enterprising Profile",
+    "summary": "This interest profile combines Conventional, Social, and Enterprising tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying helping, teaching, supporting, or guiding other people and leadership, persuasion, business initiatives, and entrepreneurship.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by social thinking and enterprising approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating social and enterprising abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CER": {
+    "title": "Conventional \u2013 Enterprising \u2013 Realistic Profile",
+    "summary": "This interest profile combines Conventional, Enterprising, and Realistic tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and practical, hands\u2011on activities involving tools, machines, or physical work.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by enterprising thinking and realistic approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating enterprising and realistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CEI": {
+    "title": "Conventional \u2013 Enterprising \u2013 Investigative Profile",
+    "summary": "This interest profile combines Conventional, Enterprising, and Investigative tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and analytical thinking, research, and solving complex intellectual problems.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by enterprising thinking and investigative approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating enterprising and investigative abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CEA": {
+    "title": "Conventional \u2013 Enterprising \u2013 Artistic Profile",
+    "summary": "This interest profile combines Conventional, Enterprising, and Artistic tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and creative expression, imagination, and innovative design.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by enterprising thinking and artistic approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating enterprising and artistic abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  },
+  "CES": {
+    "title": "Conventional \u2013 Enterprising \u2013 Social Profile",
+    "summary": "This interest profile combines Conventional, Enterprising, and Social tendencies. You are primarily drawn to organization, structured systems, administration, and accuracy, while also enjoying leadership, persuasion, business initiatives, and entrepreneurship and helping, teaching, supporting, or guiding other people.",
+    "work_style": "You may thrive in environments that allow you to use conventional strengths first, supported by enterprising thinking and social approaches.",
+    "student_guidance": "Explore career paths where your conventional strengths can lead, while integrating enterprising and social abilities. Activities such as internships, projects, or clubs related to these interests can help you confirm whether these directions fit you."
+  }
+}
